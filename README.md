@@ -10,7 +10,9 @@ My-Travel-Checklist is the application that allows to compose the list of to-do-
 
 
 [![made-with-react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![GitHub](https://img.shields.io/github/license/missiveronica/my-travel-checklist)](https://github.com/missiveronica/my-travel-checklist/blob/main/LICENSE)
+![Netlify](https://img.shields.io/netlify/657ad182-3a46-4397-b695-3e5be69ea1b5?style=for-the-badge&logo=Netlify&labelColor=%230C0C0C&link=https%3A%2F%2Fgleaming-pie-0cf883.netlify.app%2F)
+
+
 
 
 
