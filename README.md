@@ -9,7 +9,7 @@
 My-Travel-Checklist is the application that allows to compose the list of to-do-things and items required for travelling, tick the items completed or delete them from the list.
 
 
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python%203.8-1f425f.svg?logo=python)](https://www.python.org/)
+[![made-with-react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![GitHub](https://img.shields.io/github/license/missiveronica/my-travel-checklist)](https://github.com/missiveronica/my-travel-checklist/blob/main/LICENSE)
 
 
