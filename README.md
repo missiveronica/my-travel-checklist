@@ -17,16 +17,6 @@ My-Travel-Checklist is the application that allows to compose the list of to-do-
 
 
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
-
 
   <p align="center">
     An awesome App to jumpstart your Travel projects!
