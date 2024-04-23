@@ -8,7 +8,20 @@
 
 My-Travel-Checklist is the application that allows to compose the list of to-do-things and items required for travelling, tick the items completed or delete them from the list.
 
-
+<p align="center">
+  <a href="https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE">
+    <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />
+  </a>
+  <a href="https://gleaming-pie-0cf883.netlify.app/)">
+    <img src="https://img.shields.io/netlify/657ad182-3a46-4397-b695-3e5be69ea1b5?style=for-the-badge&logo=Netlify&labelColor=%2320232a&link=https%3A%2F%2Fgleaming-pie-0cf883.netlify.app%2F" />
+  </a>
+  <a href="https://github.com/frinyvonnick/gitmoji-changelog">
+    <img src="https://img.shields.io/badge/changelog-gitmoji-brightgreen.svg" alt="gitmoji-changelog">
+  </a>
+  <a href="https://twitter.com/FranckAbgrall">
+    <img alt="Twitter: FranckAbgrall" src="https://img.shields.io/twitter/follow/FranckAbgrall.svg?style=social" target="_blank" />
+  </a>
+</p>
 [![made-with-react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 ![Netlify](https://img.shields.io/netlify/657ad182-3a46-4397-b695-3e5be69ea1b5?style=for-the-badge&logo=Netlify&labelColor=%2320232a&link=https%3A%2F%2Fgleaming-pie-0cf883.netlify.app%2F)
 
