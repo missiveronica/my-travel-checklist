@@ -10,7 +10,7 @@ My-Travel-Checklist is the application that allows to compose the list of to-do-
 
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python%203.8-1f425f.svg?logo=python)](https://www.python.org/)
-[![GitHub](https://img.shields.io/github/license/emalderson/ThePhish)](https://github.com/emalderson/ThePhish/blob/master/LICENSE)
+[![GitHub](https://img.shields.io/github/license/missiveronica/my-travel-checklist)](https://github.com/missiveronica/my-travel-checklist/blob/main/LICENSE)
 
 
 
