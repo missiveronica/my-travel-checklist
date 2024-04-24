@@ -34,7 +34,7 @@ My-Travel-Checklist is the application that allows to compose the list of to-do-
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## ✨ About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -71,7 +71,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## ⚡️ Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
