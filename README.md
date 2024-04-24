@@ -118,8 +118,7 @@ This project is distributed under [MIT](LICENSE).
 
 
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+
 
 
 
